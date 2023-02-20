@@ -2,9 +2,7 @@ body{
     text-align: center;
     margin-top: 20vh;
 }
-.text_input{
-    
-}
+
 #label{
     margin-bottom: 5px;
     font-size: larger;
@@ -29,4 +27,10 @@ body{
     height: 30px;
     position: relative;
     top: 15px;
+}
+#myBtn:hover{
+    background-color: rgb(26, 192, 150);
+}
+#myBtn:active{
+    border: 1px solid;
 }
