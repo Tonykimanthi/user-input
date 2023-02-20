@@ -28,3 +28,9 @@ body{
     position: relative;
     top: 15px;
 }
+#myBtn:hover{
+    background-color: rgb(26, 192, 150);
+}
+#myBtn:active{
+    border: 1px solid;
+}
